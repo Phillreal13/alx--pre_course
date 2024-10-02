@@ -1,1 +1,1 @@
-My first readme
+Im current learning C
